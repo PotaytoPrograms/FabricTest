@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "ruby",
+  "version": "${version}",
+  "name": "Test",
+  "description": "",
+  "authors": [
+    "PotaytoPrograms"
+  ],
+  "contact": {
+    "website": "https://www.youtube.com/channel/UCW1-Z1WJN5kMtovwJ3jqpUw"
+  },
+  "license": "MIT",
+  "icon": "assets/test/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "me.potaytoprograms.test.client.RubyModClient"
+    ],
+    "main": [
+      "me.potaytoprograms.test.RubyMod"
+    ]
+  },
+  "mixins": [
+    "test.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.10.6+build.214",
+    "fabric": "*",
+    "minecraft": "1.16.3"
+  }
+}

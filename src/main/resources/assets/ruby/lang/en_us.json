@@ -1,0 +1,22 @@
+{
+  "item.ruby.ruby_item": "Ruby",
+  "item.ruby.ruby_helmet": "Ruby helmet",
+  "item.ruby.ruby_chestplate": "Ruby chestplate",
+  "item.ruby.ruby_leggings": "Ruby leggings",
+  "item.ruby.ruby_boots": "Ruby boots",
+  "item.ruby.ruby_sword": "Ruby sword",
+  "item.ruby.ruby_shovel": "Ruby shovel",
+  "item.ruby.ruby_axe": "Ruby axe",
+  "item.ruby.ruby_pickaxe": "Ruby pickaxe",
+  "item.ruby.ruby_hoe": "Ruby hoe",
+  "item.ruby.heal_stick_item": "Heal stick",
+
+  "block.ruby.ruby_block": "Ruby block",
+  "block.ruby.oven_block": "Oven",
+
+  "enchantment.ruby.frostbite_enchantment": "Frostbite",
+  "enchantment.ruby.teleport_enchantment": "Teleport",
+  "enchantment.ruby.throw_enchantment": "Throw",
+
+  "item_group.ruby.item_group": "group"
+}
